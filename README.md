@@ -1,8 +1,5 @@
-![logo](http://html2pdf.it/favicon-32x32.png) [html2pdf.it](http://www.html2pdf.it)
 ===========
 Generate PDFs from any web-page. You need [Node.js](http://nodejs.org) to run it.
-
-See it in action at: [html2pdf.it](http://www.html2pdf.it).
 
 
 Works out of the box on both Windows and Ubuntu. On Mac you need to:
